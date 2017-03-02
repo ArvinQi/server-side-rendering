@@ -1,2 +1,5 @@
 #node
 node_modules
+
+#bundle.js
+static/bundle.js
